@@ -6,4 +6,4 @@ Marcos Henrique Alves
 2 - letra e;
 3 - letra d
 4 - y = 4, x = 3, *p = 4;
-5 - 
+5 - x = 4, y = 27;
